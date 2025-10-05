@@ -1,8 +1,8 @@
-<h1 align="center" style="font-size: 5em; font-weight: bold;">Skills</h1>
+<h1 style="font-size: 5em; font-weight: bold;">Skills</h1>
 
-<h2 align="center" style="font-size: 3em;">💻 Experienced in:</h2>
+<h2 style="font-size: 3em;">💻 Experienced in:</h2>
 
-<table align="center">
+<table>
   <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="100" /><br />
@@ -19,9 +19,9 @@
   </tr>
 </table>
 
-<h2 align="center" style="font-size: 3em;">🧪 Familiar with:</h2>
+<h2 style="font-size: 3em;">🧪 Familiar with:</h2>
 
-<table align="center">
+<table>
   <tr>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/157846462?s=200&v=4" width="100" /><br />
@@ -41,6 +41,7 @@
     </td>
   </tr>
 </table>
+
 
 <!--
 **Matero952/Matero952** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
