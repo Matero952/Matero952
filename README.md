@@ -3,7 +3,7 @@
 ## Familiar with:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" />
 <img src="https://www.svgrepo.com/show/373957/pddl.svg" width="60" />
-![PyTorch Logo](https://www.pikpng.com/pngl/m/297-2979964_pytorch-first-step-pytorch-logo-png-clipart.png)
+<img src="https://www.pikpng.com/pngl/m/297-2979964_pytorch-first-step-pytorch-logo-png-clipart.png" width="60" />
 
 
 <!--
