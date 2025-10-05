@@ -1,7 +1,8 @@
-## Hi there 👋
-[![Mateo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matero952)](https://github.com/anuraghazra/github-readme-stats)
-## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matero952&layout=compact&theme=tokyonight)
+## 💻 Experienced in:
+- Python ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+- Familiar with:
+  - C++ ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+  - PDDL ![PDDL](https://img.shields.io/badge/-PDDL-008080?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCI+PHJlY3Qgd2lkd)
 
 <!--
 **Matero952/Matero952** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
