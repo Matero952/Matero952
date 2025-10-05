@@ -16,7 +16,7 @@
 
 ## Familiar with:
 <p align="left">
-  <img src="https://assets.st-note.com/production/uploads/images/186789206/rectangle_large_type_2_b6f04325985973e0cfb0126d1cf4bcce.png?fit=bounds&quality=85&width=1280" width="135" height="135" />
+  <img src="https://avatars.githubusercontent.com/u/157846462?s=200&v=4" width="135" height="135" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="135" height="135" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
