@@ -11,7 +11,7 @@
 <p align="left">
   <span style="font-size: 5em; font-weight: bold;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python</span>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span style="font-size: 5em; font-weight: bold;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Linux</span>
+  <span style="font-size: 5em; font-weight: bold;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Linux</span>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <span style="font-size: 5em; font-weight: bold;">&nbsp;&nbsp;&nbsp;ROS2 (Humble Hawksbill)</span>
 </p>
@@ -27,7 +27,7 @@
   <img src="https://www.pikpng.com/pngl/m/297-2979964_pytorch-first-step-pytorch-logo-png-clipart.png" width="150" height="150" />
 </p>
 <p align="left">
-  <span style="font-size: 5em; font-weight: bold;">&nbsp;&nbsp;&nbsp;NVIDIA Isaac Sim</span>
+  <span style="font-size: 5em; font-weight: bold;">&nbsp;&nbsp;&nbsp;&nbsp;NVIDIA Isaac Sim</span>
   &nbsp;
   <span style="font-size: 5em; font-weight: bold;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C++</span>
   &nbsp;
