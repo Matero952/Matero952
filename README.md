@@ -1,10 +1,32 @@
-## 💻 Experienced in:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" />
-## Familiar with:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" />
-<img src="https://www.svgrepo.com/show/373957/pddl.svg" width="60" />
-<img src="https://www.pikpng.com/pngl/m/297-2979964_pytorch-first-step-pytorch-logo-png-clipart.png" width="60" />
+<p><strong>💻 Experienced in:</strong></p>
+<div style="display: flex; gap: 40px; align-items: center;">
 
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" />
+    <div>Python</div>
+  </div>
+
+</div>
+
+<p><strong style="font-size: 1.5em;">Familiar with:</strong></p>
+<div style="display: flex; gap: 40px; align-items: center;">
+
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" />
+    <div>C++</div>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="https://www.svgrepo.com/show/373957/pddl.svg" width="60" />
+    <div>PDDL</div>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="https://www.pikpng.com/pngl/m/297-2979964_pytorch-first-step-pytorch-logo-png-clipart.png" width="60" />
+    <div>PyTorch</div>
+  </div>
+
+</div>
 
 <!--
 **Matero952/Matero952** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
