@@ -1,4 +1,4 @@
-# <span style="font-size: 100em; font-weight: bold;">Skills</span>
+# <span style="font-size: 10em; font-weight: bold;">Skills</span>
 
 ## <span style="font-size: 5em; font-weight: bold;">Experienced in:</span>
 <p align="left">
@@ -9,10 +9,10 @@
   <img src="https://us1.discourse-cdn.com/flex022/uploads/ros/original/2X/e/e2b80a2e45b12a397dbfebddb3abe92a1b4ce921.png" width="150" height="150" />
 </p>
 <p align="left">
-  <span style="font-size: 5em; font-weight: bold;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python</span>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span style="font-size: 5em; font-weight: bold;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Linux</span>
+  <span style="font-size: 5em; font-weight: bold;">&nbsp;&nbsp;Python</span>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <span style="font-size: 5em; font-weight: bold;">&nbsp;&nbsp;&nbsp;Linux</span>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <span style="font-size: 5em; font-weight: bold;">ROS2 (Humble Hawksbill)</span>
 </p>
 
@@ -28,12 +28,12 @@
 </p>
 <p align="left">
   <span style="font-size: 5em; font-weight: bold;">NVIDIA Isaac Sim</span>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span style="font-size: 5em; font-weight: bold;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C++</span>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span style="font-size: 5em; font-weight: bold;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PDDL</span>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span style="font-size: 5em; font-weight: bold;">&nbsp;&nbsp;PyTorch</span>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <span style="font-size: 5em; font-weight: bold;">&nbsp;&nbsp;&nbsp;&nbsp;C++</span>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <span style="font-size: 5em; font-weight: bold;">&nbsp;&nbsp;&nbsp;PDDL</span>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <span style="font-size: 5em; font-weight: bold;">PyTorch</span>
 </p>
 <!--
 **Matero952/Matero952** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
