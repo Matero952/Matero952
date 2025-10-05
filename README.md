@@ -1,52 +1,8 @@
-<h1 style="font-size: 6em; font-weight: bold;">Skills</h1>
-
-<h2 style="font-size: 4em;">💻 Experienced in:</h2>
-
-<div style="display: flex; gap: 60px; align-items: center; margin-bottom: 60px;">
-
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="140" />
-    <div style="font-size: 2em; font-weight: bold;">Python</div>
-  </div>
-
-  <div style="text-align: center;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="140" />
-    <div style="font-size: 2em; font-weight: bold;">Linux</div>
-  </div>
-
-  <div style="text-align: center;">
-    <img src="https://us1.discourse-cdn.com/flex022/uploads/ros/original/2X/e/e2b80a2e45b12a397dbfebddb3abe92a1b4ce921.png" width="140" />
-    <div style="font-size: 2em; font-weight: bold;">ROS2 (Humble)</div>
-  </div>
-
-</div>
-
-<h2 style="font-size: 4em;">🧪 Familiar with:</h2>
-
-<div style="display: flex; gap: 60px; align-items: center;">
-
-  <div style="text-align: center;">
-    <img src="https://avatars.githubusercontent.com/u/157846462?s=200&v=4" width="140" />
-    <div style="font-size: 2em; font-weight: bold;">Isaac Sim</div>
-  </div>
-
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="140" />
-    <div style="font-size: 2em; font-weight: bold;">C++</div>
-  </div>
-
-  <div style="text-align: center;">
-    <img src="https://www.svgrepo.com/show/373957/pddl.svg" width="140" />
-    <div style="font-size: 2em; font-weight: bold;">PDDL</div>
-  </div>
-
-  <div style="text-align: center;">
-    <img src="https://www.pikpng.com/pngl/m/297-2979964_pytorch-first-step-pytorch-logo-png-clipart.png" width="140" />
-    <div style="font-size: 2em; font-weight: bold;">PyTorch</div>
-  </div>
-
-</div>
-
+🧠 Skills
+💻 <span style="font-size:1.8em;">Experienced in:</span>
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="90" /> <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="90" /> <img src="https://us1.discourse-cdn.com/flex022/uploads/ros/original/2X/e/e2b80a2e45b12a397dbfebddb3abe92a1b4ce921.png" width="90" /> </p> <p align="left"> <strong style="display:inline-block; width:90px; text-align:center;">Python</strong> <strong style="display:inline-block; width:90px; text-align:center;">Linux</strong> <strong style="display:inline-block; width:90px; text-align:center;">ROS2</strong> </p>
+🧪 <span style="font-size:1.8em;">Familiar with:</span>
+<p align="left"> <img src="https://avatars.githubusercontent.com/u/157846462?s=200&v=4" width="90" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="90" /> <img src="https://www.svgrepo.com/show/373957/pddl.svg" width="90" /> <img src="https://www.pikpng.com/pngl/m/297-2979964_pytorch-first-step-pytorch-logo-png-clipart.png" width="90" /> </p> <p align="left"> <strong style="display:inline-block; width:90px; text-align:center;">Isaac Sim</strong> <strong style="display:inline-block; width:90px; text-align:center;">C++</strong> <strong style="display:inline-block; width:90px; text-align:center;">PDDL</strong> <strong style="display:inline-block; width:90px; text-align:center;">PyTorch</strong> </p>
 
 
 <!--
