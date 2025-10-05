@@ -1,4 +1,4 @@
-# <span style="font-size: 10em; font-weight: bold;">Skills</span>
+# <span style="font-size: 100em; font-weight: bold;">Skills</span>
 
 ## <span style="font-size: 5em; font-weight: bold;">Experienced in:</span>
 <p align="left">
