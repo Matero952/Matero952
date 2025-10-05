@@ -12,7 +12,7 @@
 
 ## Familiar with:
 <p align="left">
-  <img src="https://tknika.eus/wp-content/uploads/2022/10/ros.png" width="135" height="135" />
+  <img src="https://images.seeklogo.com/logo-png/44/2/ros-logo-png_seeklogo-441814.png" width="135" height="135" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="135" height="135" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
