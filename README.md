@@ -13,7 +13,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <span style="font-size: 5em; font-weight: bold;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Linux</span>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span style="font-size: 5em; font-weight: bold;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ROS2 (Humble Hawksbill)</span>
+  <span style="font-size: 5em; font-weight: bold;">&nbsp;&nbsp;&nbsp;&nbsp;ROS2 (Humble Hawksbill)</span>
 </p>
 
 ## <span style="font-size: 5em; font-weight: bold;">Familiar with:</span>
