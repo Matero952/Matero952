@@ -1,4 +1,6 @@
+## 💻 Experienced in:
 Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" />
+## Familiar with:
 C++ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" />
 PDDL <img src="https://path-to-your-pddl-logo.svg" width="60" />
 
