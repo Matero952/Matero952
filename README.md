@@ -1,19 +1,18 @@
 <p><strong style="font-size: 1.8em;">Familiar with:</strong></p>
-<div style="display: flex; gap: 40px; align-items: center; flex-wrap: wrap;">
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60" style="object-fit: contain; display: block; margin: 0 auto;" />
+<div style="display: flex !important; flex-direction: row !important; gap: 40px; align-items: center; flex-wrap: nowrap;">
+  <div style="text-align: center; display: inline-block;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60" style="object-fit: contain; display: block;" />
     <div style="margin-top: 8px;">C++</div>
   </div>
-  <div style="text-align: center;">
-    <img src="https://www.svgrepo.com/show/373957/pddl.svg" width="60" height="60" style="object-fit: contain; display: block; margin: 0 auto;" />
+  <div style="text-align: center; display: inline-block;">
+    <img src="https://www.svgrepo.com/show/373957/pddl.svg" width="60" height="60" style="object-fit: contain; display: block;" />
     <div style="margin-top: 8px;">PDDL</div>
   </div>
-  <div style="text-align: center;">
-    <img src="https://www.pikpng.com/pngl/m/297-2979964_pytorch-first-step-pytorch-logo-png-clipart.png" width="60" height="60" style="object-fit: contain; display: block; margin: 0 auto;" />
+  <div style="text-align: center; display: inline-block;">
+    <img src="https://www.pikpng.com/pngl/m/297-2979964_pytorch-first-step-pytorch-logo-png-clipart.png" width="60" height="60" style="object-fit: contain; display: block;" />
     <div style="margin-top: 8px;">PyTorch</div>
   </div>
 </div>
-
 
 <!--
 **Matero952/Matero952** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
