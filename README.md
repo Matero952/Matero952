@@ -9,11 +9,11 @@
   <img src="https://us1.discourse-cdn.com/flex022/uploads/ros/original/2X/e/e2b80a2e45b12a397dbfebddb3abe92a1b4ce921.png" width="150" height="150" />
 </p>
 <p align="left">
-  <span style="font-size: 5em; font-weight: bold;">&nbsp;&nbsp;Python</span>
+  <span style="font-size: 5em; font-weight: bold;">&nbsp;&nbsp;  Python</span>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span style="font-size: 5em; font-weight: bold;">&nbsp;&nbsp;&nbsp;Linux</span>
+  <span style="font-size: 5em; font-weight: bold;">&nbsp;&nbsp;&nbsp;  Linux</span>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span style="font-size: 5em; font-weight: bold;">ROS2 (Humble Hawksbill)</span>
+  <span style="font-size: 5em; font-weight: bold;">&nbsp;&nbsp;&nbsp;  ROS2 (Humble Hawksbill)</span>
 </p>
 
 ## <span style="font-size: 5em; font-weight: bold;">Familiar with:</span>
