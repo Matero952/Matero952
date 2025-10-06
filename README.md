@@ -47,10 +47,10 @@
 - [**Grasp Prediction with Vision-Language Models and Open-Vocabulary Object-Detection Models**](https://medium.com/correll-lab/grasp-prediction-with-vision-language-models-and-open-vocabulary-object-detection-models-05ea20a6e20c)  
   *Correll Lab Prepublication Journal (editorially reviewed by Prof. Nikolaus Correll and PhD Student Max Conway), 2025*
 
-  - Developed a vision-language model to improve robotic grasp prediction.
-  - Implemented open-vocabulary object detection techniques.
-  - Evaluated model performance using real-world datasets.
-  - Worked closely with PhD mentors and the Correll Lab.  <!-- Removed the PDDL-related publication here -->
+  - Developed dataset of pictures of objects and tools with hand and finger placement bounding boxes annotated(500 images.
+  - Evaluated VLMs and Open-Vocab Object-Detection Models on the dataset.
+  - Presented findings showing VLMs could be a future solution for open-world robotic grasping(enabling robots to pick up objects they may have never seen before).
+  <!-- Removed the PDDL-related publication here -->
 </ul>
 
 
