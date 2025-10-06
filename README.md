@@ -44,7 +44,12 @@
 
 <!-- 📚 Publications Section -->
 <h2 style="font-size: 5em; font-weight: bold; margin-top: 100px;">Publications</h2>
-
+<ul style="font-size: 1.8em; line-height: 1.5; max-width: 900px; margin-bottom: 30px;">
+  <li>Developed a vision-language model to improve robotic grasp prediction.</li>
+  <li>Implemented open-vocabulary object detection techniques.</li>
+  <li>Evaluated model performance using real-world datasets.</li>
+  <li>Worked closely with PhD mentors and the Correll Lab.</li>
+</ul>
 <ul style="font-size: 2em; line-height: 1.6;">
   <li>
     <a href="https://medium.com/correll-lab/grasp-prediction-with-vision-language-models-and-open-vocabulary-object-detection-models-05ea20a6e20c" target="_blank">
