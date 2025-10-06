@@ -1,4 +1,13 @@
-<h1 style="font-size: 6em; font-weight: bold;">Skills</h1>
+<!-- Introduction Section -->
+<h1 style="font-size: 6em; font-weight: bold;">Hi! <span style="font-size: 0.8em;">👋</span></h1>
+<p style="font-size: 2em; max-width: 900px;">
+  I’m Mateo! I'm a sohpmore in highschool and an intern at Cu Boulder's Correll Lab. I'm passioante about robotic grasping! Welcome to my Github portfolio where I showcase some of my skills and work!
+</p>
+
+<!-- Skills Section with robot emoji -->
+<h1 style="font-size: 6em; font-weight: bold;">
+  Skills <span style="font-size: 0.8em;">🤖</span>
+</h1>
 
 <h2 style="font-size: 5em; font-weight: bold;">Experienced in:</h2>
 
@@ -42,15 +51,18 @@
   </tr>
 </table>
 
-## Publications
-
-- [**Grasp Prediction with Vision-Language Models and Open-Vocabulary Object-Detection Models**](https://medium.com/correll-lab/grasp-prediction-with-vision-language-models-and-open-vocabulary-object-detection-models-05ea20a6e20c)  
-  *Correll Lab Prepublication Journal (editorially reviewed by Prof. Nikolaus Correll and PhD Student Max Conway), 2025*
-
-  - Developed dataset of pictures of objects and tools with hand and finger placement bounding boxes annotated(500 images.
-  - Evaluated VLMs and Open-Vocab Object-Detection Models on the dataset.
-  - Presented findings showing VLMs could be a *future* solution for open-world robotic grasping(enabling robots to pick up objects they may have never seen before).
-  <!-- Removed the PDDL-related publication here -->
+<!-- Publications Section -->
+<h2 style="font-size: 5em; font-weight: bold; margin-top: 100px;">Publications</h2>
+<ul style="font-size: 2em; line-height: 1.6; max-width: 900px;">
+  <li>
+    <a href="https://medium.com/correll-lab/grasp-prediction-with-vision-language-models-and-open-vocabulary-object-detection-models-05ea20a6e20c" target="_blank">
+      <strong>Grasp Prediction with Vision-Language Models and Open-Vocabulary Object-Detection Models</strong>
+    </a><br />
+    <em>Correll Lab Prepublication Journal (editorially reviewed by Prof. Nikolaus Correll and PhD Student Max Conway), 2025</em>
+    <ul style="font-size: 1.6em; line-height: 1.4; margin-top: 10px;">
+      <li>Developed dataset of pictures of objects and tools with hand and finger placement bounding boxes annotated (500 images).</li>
+      <li>Evaluated VLMs and Open-Vocab Object-Detection Models on the dataset.</li>
+      <li>Presented findings showing VLMs could be a <em>future</em> solution for open-world robotic grasping (enabling robots to pick up objects they may have never seen before).</li>
+    </ul>
+  </li>
 </ul>
-
-
