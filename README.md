@@ -41,3 +41,17 @@
     </td>
   </tr>
 </table>
+
+<!-- 📚 Publications Section -->
+<h2 style="font-size: 5em; font-weight: bold; margin-top: 100px;">Publications</h2>
+
+<ul style="font-size: 2em; line-height: 1.6;">
+  <li>
+    <a href="https://medium.com/correll-lab/grasp-prediction-with-vision-language-models-and-open-vocabulary-object-detection-models-05ea20a6e20c" target="_blank">
+      <strong>Grasp Prediction with Vision-Language Models and Open-Vocabulary Object-Detection Models</strong>
+    </a><br />
+    <em>Correll Lab Prepublication Journal(editorially reviewed by Prof. Nikolaus Correll and PhD Student Max Conway, 2025</em>
+  </li>
+  <!-- Removed the PDDL-related publication here -->
+</ul>
+
