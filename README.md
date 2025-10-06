@@ -49,7 +49,7 @@
 
   - Developed dataset of pictures of objects and tools with hand and finger placement bounding boxes annotated(500 images.
   - Evaluated VLMs and Open-Vocab Object-Detection Models on the dataset.
-  - Presented findings showing VLMs could be a future solution for open-world robotic grasping(enabling robots to pick up objects they may have never seen before).
+  - Presented findings showing VLMs could be a *future* solution for open-world robotic grasping(enabling robots to pick up objects they may have never seen before).
   <!-- Removed the PDDL-related publication here -->
 </ul>
 
