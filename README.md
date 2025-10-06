@@ -1,7 +1,7 @@
 <!-- Introduction Section -->
 <h1 style="font-size: 6em; font-weight: bold;">Hi! <span style="font-size: 0.8em;">👋</span></h1>
 <p style="font-size: 2em; max-width: 900px;">
-  I’m Mateo! I'm a sohpmore in highschool and an intern at Cu Boulder's Correll Lab. I'm passioante about robotic grasping! Welcome to my Github portfolio where I showcase some of my skills and work!
+  I’m Mateo! I'm a sophmore in highschool and an intern at Cu Boulder's Correll Lab where I work on humanoid robotic grasping!
 </p>
 
 <!-- Skills Section with robot emoji -->
