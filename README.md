@@ -1,6 +1,7 @@
-# <span style="font-size: 10em; font-weight: bold;">Skills</span>
+# <span style="font-size: 6em; font-weight: bold;">Skills</span>
 
 ## <span style="font-size: 5em; font-weight: bold;">Experienced in:</span>
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="150" height="150" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -17,6 +18,7 @@
 </p>
 
 ## <span style="font-size: 5em; font-weight: bold;">Familiar with:</span>
+
 <p align="left">
   <img src="https://avatars.githubusercontent.com/u/157846462?s=200&v=4" width="150" height="150" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
