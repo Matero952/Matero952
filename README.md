@@ -66,7 +66,7 @@
 </ul>
 
 <!-- Publications Section -->
-<h1 style="font-size: 6em; font-weight: bold; margin-top: 100px;">Publications</h1>
+<h1 style="font-size: 6em; font-weight: bold; margin-top: 100px;">Publications📚</h1>
 <ul style="font-size: 2em; line-height: 1.6; max-width: 900px;">
   <li>
     <a href="https://medium.com/correll-lab/grasp-prediction-with-vision-language-models-and-open-vocabulary-object-detection-models-05ea20a6e20c" target="_blank">
