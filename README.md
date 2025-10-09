@@ -1,16 +1,13 @@
 <!-- Introduction Section -->
 <h1 style="font-size: 6em; font-weight: bold;">Hi! <span style="font-size: 0.8em;">👋</span></h1>
 <p style="font-size: 2em; max-width: 900px;">
-  I’m Mateo! I'm a sophmore in highschool and an intern at CU Boulder's Correll Lab where I work on humanoid robotic grasping and simulation!
+  I'm Mateo! I'm a sophmore in highschool and an intern at CU Boulder's Correll Lab where I work on humanoid robotic grasping and simulation!
 </p>
-
 <!-- Skills Section with robot emoji -->
 <h1 style="font-size: 6em; font-weight: bold;">
   Skills <span style="font-size: 0.8em;">🤖</span>
 </h1>
-
 <h2 style="font-size: 5em; font-weight: bold;">Experienced in:</h2>
-
 <table border="0">
   <tr>
     <td align="center" style="padding: 10px;">
@@ -27,9 +24,7 @@
     </td>
   </tr>
 </table>
-
 <h2 style="font-size: 5em; font-weight: bold; margin-top: 100px;">Familiar with:</h2>
-
 <table border="0">
   <tr>
     <td align="center" style="padding: 10px;">
@@ -51,8 +46,27 @@
   </tr>
 </table>
 
+<!-- Awards Section -->
+<h1 style="font-size: 6em; font-weight: bold; margin-top: 100px;">
+  Awards <span style="font-size: 0.8em;">🏆</span>
+</h1>
+<ul style="font-size: 2em; line-height: 1.6; max-width: 900px;">
+  <li>
+    <strong>2nd Place - Engineering</strong>, Colorado Science and Engineering Fair (CSEF), 2025
+  </li>
+  <li>
+    <strong>$4,000 Colorado School of Mines Scholarship</strong>, CSEF, 2025
+  </li>
+  <li>
+    <strong>National Security Agency (NSA) Award</strong>, CSEF, 2025
+  </li>
+  <li>
+    <strong>1st Place - Engineering</strong>, Boulder Valley/Corden Pharma Science Fair, 2025
+  </li>
+</ul>
+
 <!-- Publications Section -->
-<h2 style="font-size: 5em; font-weight: bold; margin-top: 100px;">Publications</h2>
+<h1 style="font-size: 6em; font-weight: bold; margin-top: 100px;">Publications</h1>
 <ul style="font-size: 2em; line-height: 1.6; max-width: 900px;">
   <li>
     <a href="https://medium.com/correll-lab/grasp-prediction-with-vision-language-models-and-open-vocabulary-object-detection-models-05ea20a6e20c" target="_blank">
