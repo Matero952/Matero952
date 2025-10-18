@@ -1,7 +1,7 @@
 <!-- Introduction Section -->
 <h1 style="font-size: 6em; font-weight: bold;">Hi! <span style="font-size: 0.8em;">👋</span></h1>
 <p style="font-size: 2em; max-width: 900px;">
-  I'm Mateo! I'm a sophmore in highschool and an intern at CU Boulder's Correll Lab where I work on humanoid robotic grasping and simulation!
+  I'm Mateo! I'm a sophmore in highschool and an intern at CU Boulder's Correll Lab where I am currently working on ROS2 stack simulation for Unitree's H1-2 in NVIDIA's Isaac Sim. I'm really interested in robotic grasping with VLMS!
 </p>
 <!-- Skills Section with robot emoji -->
 <h1 style="font-size: 6em; font-weight: bold;">
