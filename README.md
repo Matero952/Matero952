@@ -16,7 +16,7 @@
     </td>
     <td align="center" style="padding: 10px;">
       <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="150" height="150" /><br />
-      <strong style="font-size: 2em;">Linux</strong>
+      <strong style="font-size: 2em;">Linux(Ubuntu 22.04+)</strong>
     </td>
     <td align="center" style="padding: 10px;">
       <img src="https://us1.discourse-cdn.com/flex022/uploads/ros/original/2X/e/e2b80a2e45b12a397dbfebddb3abe92a1b4ce921.png" width="150" height="150" /><br />
